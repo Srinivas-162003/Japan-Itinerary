@@ -46,7 +46,7 @@ pip install folium plotly geopandas
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/Japan-Itinerary.git
+   git clone https://github.com/Srinivas-162003/Japan-Itinerary.git
    cd Japan-Itinerary
    ```
 
@@ -63,8 +63,6 @@ pip install folium plotly geopandas
 ## 📸 Example Output
 
 * Day-wise itinerary table
-* Charts or maps showing route flow (if included)
-* Key highlights with images or recommendations
 
 ---
 
@@ -74,7 +72,7 @@ You can modify:
 
 * **Trip length** (e.g., 7 days, 10 days, 14 days)
 * **Cities covered** (Tokyo, Kyoto, Osaka, Hiroshima, etc.)
-* **Interests** (food, culture, adventure, shopping)
+
 
 ---
 
