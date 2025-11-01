@@ -1,4 +1,4 @@
-# Japan-Trip-Itenary-generator
+
 # 🇯🇵 Japan's Itinerary Planner
 
 This repository contains a Jupyter Notebook that provides a detailed **travel itinerary for Japan**, including city-wise recommendations, travel timelines, and useful planning details for tourists. The notebook can be customized for different trip durations and interests.
