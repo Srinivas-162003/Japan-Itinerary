@@ -80,7 +80,7 @@ You can modify:
 **Srinivas Kota**
 
 * 🌐 [GitHub](https://github.com/<your-username>)
-* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+* ✉️ Email: [srinivas.kota0334@gmail.com](mailto:srinivas.kota0334@gmail.com)
 
 ---
 
