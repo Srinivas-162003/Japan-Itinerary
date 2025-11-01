@@ -11,9 +11,8 @@ The goal of this notebook is to create an organized and visually appealing **Jap
 
 * Day-by-day travel schedule
 * Key attractions in each city
-* Transportation suggestions
-* Estimated time for each activity
-* Optional add-ons (food, shopping, cultural spots)
+
+
 
 ---
 
